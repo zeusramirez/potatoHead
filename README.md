@@ -1,5 +1,5 @@
-# Alright AOIT
+# Welcome to the Potato Head Game!
 
-let's build potato head !
+We can build a potato head together using Github
 
 
